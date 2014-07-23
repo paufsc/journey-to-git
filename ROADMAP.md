@@ -1,6 +1,7 @@
-![][1]
-===========
-#git
+|     |  ![][1] 
+--------- | ---------
+
+#git 
 
 * ###git (Sürüm Kontrolü Hakkında)
 > * git hakkinda giris bilgi ne işe yaradığı ne gibi kolaylıklar sağlıyor? kısa ve öz bilgi
