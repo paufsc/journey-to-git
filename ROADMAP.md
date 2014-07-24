@@ -21,6 +21,11 @@
 > * Dal Nedir?
 > * Dallanma ve Birleştirmenin Temelleri,Dal Yönetimi,Dallanma İş Akışları,Uzak Uçbirim Dalları
 
+* ###Gitflow nedir?
+> * 
 
+  [1]: https://github.com/paufsc/journey-to-git/tree/master/assets/img/git-1.png
 
-  [1]: https://github.com/paufsc/journey-to-git/blob/master/img/git-1.png
+  ####Kaynak
+  [1](https://www.atlassian.com/git/)
+  [2](http://git-scm.com/book/tr)
