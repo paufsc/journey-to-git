@@ -27,5 +27,5 @@
   [1]: https://github.com/paufsc/journey-to-git/tree/master/assets/img/git-1.png
 
   ####Kaynak
-  [1](https://www.atlassian.com/git/)
-  [2](http://git-scm.com/book/tr)
+  * [1](https://www.atlassian.com/git/)
+  * [2](http://git-scm.com/book/tr)
