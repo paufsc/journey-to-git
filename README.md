@@ -1,7 +1,12 @@
-journey-to-git  	![][1]
-==============
+#journey-to-  	![][1]
+
 
 > Learning journey from scratch: Self-learning on the 'Git: Distributed revision control and Source code management (SCM) system'
+
+----------------------
+###İçindekiler
+
+* [Hakkinda](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Hakkinda.md)
 
 
 --------------
@@ -31,9 +36,10 @@ journey-to-git  	![][1]
 * ###Gitflow nedir?
 > - 
 
+
 ----------------------
   [1]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/git-1.png
   
 ####Kaynak
-  1. [Atlassian Git Tutorials](https://www.atlassian.com/git/)
-  2. [Pro Git Book](http://git-scm.com/book/tr)
+   1. [Atlassian Git Tutorials](https://www.atlassian.com/git/)
+   2. [Pro Git Book](http://git-scm.com/book/tr)
