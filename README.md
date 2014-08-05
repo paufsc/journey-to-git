@@ -1,5 +1,5 @@
-journey-to-git  	![][1]
-==============
+journey-to-  	![][1]
+
 
 > Learning journey from scratch: Self-learning on the 'Git: Distributed revision control and Source code management (SCM) system'
 
