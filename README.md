@@ -8,7 +8,7 @@ journey-to-git  	![][1]
 ###ROADMAP
 
 * ###Git (Sürüm Kontrolü Hakkında)
-> * git hakkinda giris bilgi ne işe yaradığı ne gibi kolaylıklar sağlıyor? kısa ve öz bilgi
+> * git hakkinda giris bilgi ne işe yaradığı ne gibi kolaylıklar sağlıyor? kısa ve öz bilgi.
 
 * ###Git'in kurulumu?
 > * Linux dağıtımları için
