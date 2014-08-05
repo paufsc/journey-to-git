@@ -1,4 +1,4 @@
-#git- #####--sürüm kontrol sistemi							![][2]  	![][1] 	
+#git --sürüm kontrol sistemi			![][2]  	![][1] 	
 
 * ###git (Sürüm Kontrolü Hakkında)
 > * git hakkinda giris bilgi ne işe yaradığı ne gibi kolaylıklar sağlıyor? kısa ve öz bilgi
@@ -33,5 +33,6 @@
   [2]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/git-3.png
 
   ####Kaynak
+
   1. [Atlassian Git Tutorials](https://www.atlassian.com/git/)
   2. [Pro Git Book](http://git-scm.com/book/tr)
