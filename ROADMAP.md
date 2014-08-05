@@ -1,4 +1,4 @@
-#git  										![][2]  	![][1] 	
+#git- #####--sürüm kontrol sistemi							![][2]  	![][1] 	
 
 * ###git (Sürüm Kontrolü Hakkında)
 > * git hakkinda giris bilgi ne işe yaradığı ne gibi kolaylıklar sağlıyor? kısa ve öz bilgi
@@ -24,6 +24,11 @@
 * ###Gitflow nedir?
 > * 
 
+
+
+
+
+----------------------
   [1]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/git-1.png
   [2]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/git-3.png
 
