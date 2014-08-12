@@ -141,8 +141,8 @@ Böyle hata mesajı ile karşılaşabilirsiniz!
 ---|---
 
   [1]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/setting.png
-  [2]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/ssh1.png
-  [3]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/ssh2.png
-  [4]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/ssh3.png
-  [5]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/ssh4.png
-  [6]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/ssh5.png
+  [2]: https://github.com/smehemmed/journey-to-git/blob/master/assets/img/ssh1.png
+  [3]: https://github.com/smehemmed/journey-to-git/blob/master/assets/img/ssh2.png
+  [4]: https://github.com/smehemmed/journey-to-git/blob/master/assets/img/ssh3.png
+  [5]: https://github.com/smehemmed/journey-to-git/blob/master/assets/img/ssh4.png
+  [6]: https://github.com/smehemmed/journey-to-git/blob/master/assets/img/ssh5.png
