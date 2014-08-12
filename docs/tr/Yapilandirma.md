@@ -137,6 +137,8 @@ Böyle hata mesajı ile karşılaşabilirsiniz!
     # provide shell access.
 ```
 
+===========
+
 [önceki](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Kurulum.md)|[sonraki]()
 ---|---
 
