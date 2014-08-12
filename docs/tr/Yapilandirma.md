@@ -1,4 +1,4 @@
-Git Yapılandırma ![][1]
+#Git Yapılandırma ![][1]
 
 ####Kimliğiniz
 
