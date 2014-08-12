@@ -18,5 +18,7 @@ Hayattaki pek çok harika şey gibi, Git de bir miktar yaratıcı yıkım ve ate
 
 2005'teki doğumundan beri, Git kullanım kolaylıklarını geliştirebilmek için evrilip olgunlaştı, ama yine de bu niteliklerini korudu. Git, inanılmaz ölçüde hızlı, büyük ölçekli projelerde alabildiğine verimli ve çizgisel olmayan geliştirim (bkz. 3. Bölüm) için inanılmaz bir dallanma (branching) sistemine sahip.
 
-#### Kaynak : ####
-[Pro Git Book](http://git-scm.com/book/tr/)
+===========
+
+|[sonraki](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Kurulum.md)
+-----|-----

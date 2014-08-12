@@ -8,6 +8,7 @@
 
 * [Hakkinda](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Hakkinda.md)
 * [Kurulum](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Kurulum.md)
+* [Yapilandirma](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Yapilandirma.md)
 
 
 --------------
@@ -22,7 +23,7 @@
 > * Windows için *kurulumların anlatılması*
 
 * ###Git Yapılandırma
-> * git'in(Sürüm Kontrol Sistemi)herhangi bir hesabiniza örneğin [Github](https://github.com/) ile yapılandırma ayarları.
+> * Git kimliği, SSH Key ve git'in(Sürüm Kontrol Sistemi)herhangi bir hesabiniza örneğin [Github](https://github.com/) ile yapılandırma ayarları.
 * ###Git'in Temelleri
 > * Bir git Deposu Edinmek
 > * Depoda yapılacak değişiklikler, kaydetmek,tarihçesini incelemek
@@ -34,13 +35,14 @@
 > * Dal Nedir?
 > * Dallanma ve Birleştirmenin Temelleri,Dal Yönetimi,Dallanma İş Akışları,Uzak Uçbirim Dalları
 
-* ###Gitflow nedir?
-> - 
+* ###Git Workflows nedir?
+> - Git ile bir proje takım halinde nasıl çalışır.
 
 
 ----------------------
   [1]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/git-1.png
   
 ####Kaynak
-   1. [Atlassian Git Tutorials](https://www.atlassian.com/git/)
-   2. [Pro Git Book](http://git-scm.com/book/tr)
+   * [Atlassian Git Tutorials](https://www.atlassian.com/git/)
+   * [Pro Git Book](http://git-scm.com/book/tr)
+   * [Github Help](https://help.github.com/)
