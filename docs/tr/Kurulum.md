@@ -64,7 +64,7 @@ Git'i Windows'da kurmak oldukça kolaydır.Alt kısımdaki sayfasından indirip 
 
 ===========
 
-#### Kaynak : ####
-[Pro Git Book](http://git-scm.com/book/tr/)
+[önceki](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Hakkinda.md)|[sonraki](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Yapilandirma.md)
+-----|-----
 
 [1]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/install.png
