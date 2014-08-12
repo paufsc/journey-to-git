@@ -43,5 +43,6 @@
   [1]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/git-1.png
   
 ####Kaynak
-   1. [Atlassian Git Tutorials](https://www.atlassian.com/git/)
-   2. [Pro Git Book](http://git-scm.com/book/tr)
+   * [Atlassian Git Tutorials](https://www.atlassian.com/git/)
+   * [Pro Git Book](http://git-scm.com/book/tr)
+   * [Github Help](https://help.github.com/)
