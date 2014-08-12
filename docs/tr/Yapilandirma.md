@@ -12,4 +12,7 @@ Git'i kurduğunuzda yapmanız gereken ilk şey adınızı ve e-posta adresinizi 
 Yinelemek gerekirse, `--global` seçeneğini kullandığınızda bunu bir kez yapmanız yeterli olacaktır, çünkü Git, o sistemde yapacağınız her işlem için bu bilgileri kullanacaktır. İsmi ya da e-posta adresini projeden projeye değiştirmek isterseniz, komutu değişiklik yapmak istediğiniz proje klasörünün içinde `--global` seçeneği olmadan çalıştırabilirsiniz.
 
 
-  [1]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/setting.png
+####Kaynak
+   * [Atlassian Git Tutorials](https://www.atlassian.com/git/)
+
+[1]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/setting.png
