@@ -1,4 +1,4 @@
-#journey-to-  	![][1]
+#journey-to- ![][1]
 
 
 > Learning journey from scratch: Self-learning on the 'Git: Distributed revision control and Source code management (SCM) system'
@@ -7,6 +7,7 @@
 ###İçindekiler
 
 * [Hakkinda](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Hakkinda.md)
+* [Kurulum](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Kurulum.md)
 
 
 --------------
