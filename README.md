@@ -23,7 +23,7 @@
 > * Windows için *kurulumların anlatılması*
 
 * ###Git Yapılandırma
-> * git'in(Sürüm Kontrol Sistemi)herhangi bir hesabiniza örneğin [Github](https://github.com/) ile yapılandırma ayarları.
+> * Git kimliği, SSH Key ve git'in(Sürüm Kontrol Sistemi)herhangi bir hesabiniza örneğin [Github](https://github.com/) ile yapılandırma ayarları.
 * ###Git'in Temelleri
 > * Bir git Deposu Edinmek
 > * Depoda yapılacak değişiklikler, kaydetmek,tarihçesini incelemek
@@ -35,8 +35,8 @@
 > * Dal Nedir?
 > * Dallanma ve Birleştirmenin Temelleri,Dal Yönetimi,Dallanma İş Akışları,Uzak Uçbirim Dalları
 
-* ###Gitflow nedir?
-> - 
+* ###Git Workflows nedir?
+> - Git ile bir proje takım halinde nasıl çalışır.
 
 
 ----------------------
