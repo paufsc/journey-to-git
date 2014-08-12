@@ -139,7 +139,7 @@ Böyle hata mesajı ile karşılaşabilirsiniz!
 
 ===========
 
-[önceki](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Kurulum.md)|[sonraki]()
+[önceki](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Kurulum.md)|[sonraki](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Temeller.md)
 ---|---
 
   [1]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/setting.png
