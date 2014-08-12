@@ -9,20 +9,20 @@ Gelin Git'i kullanmaya başlayalım. Her şeyden önce, Git'i kurmanız gerekiyo
 * Git'i kurmak için, Git'in bağımlı olduğu şu kütüphanelerin sisteminizde bulunması gerekiyor: curl, zlib, openssl, expat, ve libiconv. Örneğin, (Fedora gibi) yum aracına ya da (Debian tabanlı sistemler gibi) apt-get aracına sahip bir sistemdeyseniz bağımlılıkları kurmak için şu komutlardan birini kullanabilirsiniz: 
 
 
-```shell
+```bash
 	$ yum install curl-devel expat-devel gettext-devel \   openssl-devel zlib-devel
 	$ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \   libz-dev libssl-dev
 ```
 
 * Bütün gerekli bağımlılıkları yükledikten sonra Git web sitesinden en son bellek kopyasını edinebilirsiniz:
 
-```shell
+```bash
 	http://git-scm.com/download
 ``` 
   
 * Sonra derleyip kurabilirsiniz:
 
-```shell
+```bash
     $ tar -zxf git-1.7.2.2.tar.gz
     $ cd git-1.7.2.2
     $ make prefix=/usr/local all
@@ -31,7 +31,7 @@ Gelin Git'i kullanmaya başlayalım. Her şeyden önce, Git'i kurmanız gerekiyo
 
 * Bu adımdan sonra, Git'teki yeni güncellemeleri Git'in kendisini kullanarak edinebilirsiniz:
 
-```shell
+```bash
     $ git clone git://git.kernel.org/pub/scm/git/git.git`
 ```
 ###Linux'ta Kurulum
