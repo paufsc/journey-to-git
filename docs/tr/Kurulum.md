@@ -16,26 +16,31 @@ Gelin Git'i kullanmaya başlayalım. Her şeyden önce, Git'i kurmanız gerekiyo
 
 * Bütün gerekli bağımlılıkları yükledikten sonra Git web sitesinden en son bellek kopyasını edinebilirsiniz:
 
-    * `http://git-scm.com/download` 
+```shell
+	http://git-scm.com/download
+``` 
   
 * Sonra derleyip kurabilirsiniz:
+
 ```shell
     $ tar -zxf git-1.7.2.2.tar.gz
     $ cd git-1.7.2.2
     $ make prefix=/usr/local all
     $ sudo make prefix=/usr/local install
 ```
+
 * Bu adımdan sonra, Git'teki yeni güncellemeleri Git'in kendisini kullanarak edinebilirsiniz:
 
-    * `$ git clone git://git.kernel.org/pub/scm/git/git.git`
-  
+```shell
+    $ git clone git://git.kernel.org/pub/scm/git/git.git`
+```
 ###Linux'ta Kurulum
 
-* Git'i Linux sisteminize paket kurucu yardımıyla kurmak istiyorsanız, bunu genellikle dağıtımınızla birlikte gelen temel paket yönetim aracıyla yapabilirsiniz. Fedora kullanıcısıysanız, yum'u kullanabilirsiniz:
+* Git'i Linux sisteminize paket kurucu yardımıyla kurmak istiyorsanız, bunu genellikle dağıtımınızla birlikte gelen temel paket yönetim aracıyla yapabilirsiniz. Fedora kullanıcısıysanız, `yum`'u kullanabilirsiniz:
 
 `$ yum install git-core`
 
-* Ubuntu gibi Debian-tabanlı bir sistemdeyseniz, apt-get'i kullanabilirsiniz:
+* Ubuntu gibi Debian-tabanlı bir sistemdeyseniz, `apt-get`'i kullanabilirsiniz:
 
 `$ apt-get install git`
 
@@ -45,7 +50,7 @@ Gelin Git'i kullanmaya başlayalım. Her şeyden önce, Git'i kurmanız gerekiyo
 
 `http://sourceforge.net/projects/git-osx-installer/`
 
-* Diğer başlıca yol, Git'i MacPorts (http://www.macports.org) vasıtasıyla kurmaktır. MacPorts halihazırda kurulu bulunuyorsa Git'i şu komutla kurabilirsiniz:
+* Diğer başlıca yol, Git'i [MacPorts](http://www.macports.org) vasıtasıyla kurmaktır. MacPorts halihazırda kurulu bulunuyorsa Git'i şu komutla kurabilirsiniz:
 
 `$ sudo port install git-core +svn +doc +bash_completion +gitweb`
 
