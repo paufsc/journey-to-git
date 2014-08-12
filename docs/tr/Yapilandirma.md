@@ -89,7 +89,7 @@ Yeni SSH anahtarı oluşturalım,
 
 * Şimdi anahtarı kopyaladıktan sonra, GitHub hesabımıza ekliyelim:
 
-* |Aşağıdaki adımları uygulayalım| . 
+No|Aşağıdaki adımları uygulayalım| . 
 ----|-----|---
 1.| Sağ üst köşesindeki kullanıcı çubuğunda [Ayarlar butonu](https://github.com/settings/profile) |![][2]
 2.| Sol kısımda [SSH Key](https://github.com/settings/ssh) seçeneğini secelim |![][3]
