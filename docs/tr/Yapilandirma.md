@@ -1,7 +1,5 @@
 ##Git Yapılandırma ![][1]
 
--------------
-
 ####Kimliğiniz
 
 Git'i kurduğunuzda yapmanız gereken ilk şey adınızı ve e-posta adresinizi ayarlamaktır. Bunun önemli olmasının nedeni her bir Git kaydının bu bilgiyi kullanıyor olması ve bu bilgilerin dolaşıma soktuğunuz kayıtlara değişmez biçimde işlenmesidir.
