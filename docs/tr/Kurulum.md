@@ -10,8 +10,8 @@ Gelin Git'i kullanmaya başlayalım. Her şeyden önce, Git'i kurmanız gerekiyo
 
 
 ```shell
-$ yum install curl-devel expat-devel gettext-devel \   openssl-devel zlib-devel
-$ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \   libz-dev libssl-dev
+	$ yum install curl-devel expat-devel gettext-devel \   openssl-devel zlib-devel
+	$ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \   libz-dev libssl-dev
 ```
 
 * Bütün gerekli bağımlılıkları yükledikten sonra Git web sitesinden en son bellek kopyasını edinebilirsiniz:
@@ -29,14 +29,37 @@ $ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \   libz-dev libssl-
 
     * `$ git clone git://git.kernel.org/pub/scm/git/git.git`
   
-  
+###Linux'ta Kurulum
 
+* Git'i Linux sisteminize paket kurucu yardımıyla kurmak istiyorsanız, bunu genellikle dağıtımınızla birlikte gelen temel paket yönetim aracıyla yapabilirsiniz. Fedora kullanıcısıysanız, yum'u kullanabilirsiniz:
 
+`$ yum install git-core`
 
+* Ubuntu gibi Debian-tabanlı bir sistemdeyseniz, apt-get'i kullanabilirsiniz:
 
+`$ apt-get install git`
 
+###Mac'te Kurulum
 
+* Git'i Mac'te kurmak için iki kolay yol vardır. En kolayı, SourceForge sayfasından indirebileceğiniz görsel Git yükleyicisini kullanmaktır.
+
+`http://sourceforge.net/projects/git-osx-installer/`
+
+* Diğer başlıca yol, Git'i MacPorts (http://www.macports.org) vasıtasıyla kurmaktır. MacPorts halihazırda kurulu bulunuyorsa Git'i şu komutla kurabilirsiniz:
+
+`$ sudo port install git-core +svn +doc +bash_completion +gitweb`
+
+Bütün ek paketleri kurmanız şart değil, ama Git'i Subversion yazılım havuzlarıyla kullanmanız gerekecekse en azından +svn'i edinmelisiniz.
+
+###Windows'ta Kurulum
+
+Git'i Windows'da kurmak oldukça kolaydır.Alt kısımdaki sayfasından indirip çalıştırmanız yeterli:
+
+`http://git-scm.com/download/win`
+
+===========
+
+#### Kaynak : ####
+[Pro Git Book](http://git-scm.com/book/tr/)
 
 [1]: https://github.com/paufsc/journey-to-git/blob/master/assets/img/install.png
-  
-  http://git-scm.com/download/win windows
