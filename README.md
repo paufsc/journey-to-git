@@ -9,7 +9,7 @@
 * [Hakkinda](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Hakkinda.md)
 * [Kurulum](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Kurulum.md)
 * [Yapilandirma](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Yapilandirma.md)
-
+* [Temeller](https://github.com/paufsc/journey-to-git/blob/master/docs/tr/Temeller.md)
 
 --------------
 ###ROADMAP
